@@ -1,22 +1,40 @@
-<img  align="center" src="https://github.com/Ramakrishnan-1/Ramakrishnan-1/blob/main/GithubBanner.png?raw=true" alt="banner"/>
-<!-- <h1 align="center">Hi 👋, I'm Ramakrishnan</h1> -->
-<h3 align="left">A passionate Full Stack developer focused on O365 Technologies</h3>
+![Banner](https://indoanalytica.com/static/images/bannerr.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramakrishnan-1&label=Profile%20views&color=0e75b6&style=flat" alt="ramakrishnan-1" /> </p>
-<p>
-<a href="https://www.c-sharpcorner.com/members/ram-rama3">
-<img src="https://www.c-sharpcorner.com/members/ram-rama3/flair.png?theme=dark" width="260" height="58" alt="profile for Ramakrishnan C# Corner" title="profile for Ramakrishnan at C# Corner - A Social Community of Developers and Programmers" />
-</a>
-</p>
-<p align="left"> <a href="https://twitter.com/ramrama1197" target="blank"><img src="https://img.shields.io/twitter/follow/ramrama1197?logo=twitter&style=for-the-badge" alt="ramrama1197" /></a> </p>
+<h1 align="center">Hi 👋, I'm Sri Arun</h1>
+<h3 align="center">A passionate ML enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramakrishnan-1" alt="ramakrishnan-1" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+- 🔭 I’m currently working on *Video Generation using text prompts*
 
-- 📝 I regularly write articles on [https://www.c-sharpcorner.com/members/ram-rama3](https://www.c-sharpcorner.com/members/ram-rama3)
+- 🌱 I’m currently learning *MLOPs,AWS*
 
-- 💬 Ask me about *React JS, JavaScript, SharePoint, Power Platform, Azure*
+- 👯 I’m looking to collaborate on *innovative unique projects related to Gen AI and Computer vision*
+
+- 💬 Ask me about *Machine Learning, Deep Learning, Generative AI*
+
+- 📫 How to reach me *msriarunm@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rramakrishnan-1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rramakrishnan11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sri-arun-235416237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sri-arun-235416237" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22935392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22935392" height="30" width="40" /></a>
+<a href="https://kaggle.com/sriarunmarimuthu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sriarunmarimuthu" height="30" width="40" /></a>
+<a href="https://medium.com/msriarunm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="msriarunm" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sece_mad063" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sece_mad063" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sriarun_m27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sriarun_m27" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sriarun_m27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sriarun_m27" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriarunm&show_icons=true&locale=en&layout=compact" alt="sriarunm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriarunm&show_icons=true&locale=en" alt="sriarunm" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sriarun_m27?theme=light&font=Sansita%20Swashed&ext=contest)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriarunm&" alt="sriarunm" /></p>
+
+[![Sri Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sriarunm&bg_color=d1ffda&color=6d4c9e&line=794c9e&point=3f3e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
