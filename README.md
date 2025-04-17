@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1>Hi guys,I'm Sanjayram Ramkumar</h1>
-I'm currently working on Transformers<br>Passionate in Generative AI<br>Speaks about Machine Learning,DataSciene,Big data,LLM,Generative AI
+I'm currently working on Agentic and 3d Mesh AI models<br>Passionate in Generative AI<br>Speaks about Machine Learning,DataSciene,Big data,LLM,Generative AI
 
 
 ## 🌐 Socials:
